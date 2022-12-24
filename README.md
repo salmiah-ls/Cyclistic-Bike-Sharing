@@ -8,7 +8,7 @@ This repository contains capstone project of Google Data Analytics course - Case
 The analyst team wants to understand how casual riders and annual members use Cyclistic bikes differently. From the insight, the team will design a new marketing strategy to convert casual riders into annual members.
 
 ## Datasets
-For this project, I use 1-year Cyclistic riidng data from November 2021 to October 2022. Datasets are available in this [link](https://divvy-tripdata.s3.amazonaws.com/index.html).
+For this project, I use 1-year Cyclistic riding data from November 2021 to October 2022. Datasets are available in this [link](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
 ## Tools
 I use 2 tools to complete this project:
