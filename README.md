@@ -14,3 +14,6 @@ For this project, I use 1-year Cyclistic riding data from November 2021 to Octob
 I use 2 tools to complete this project:
 1. **R** to load, clean, transform, and analyze data.
 2. **Microsoft Excel** to save outputs from R and create visualization.
+
+## R Code
+Because the size of each dataset is large - 1 dataset contains data for 1 month and the size is more than 100 MB -, so I created one R-file for each dataset analysis. In the end, there are 12 R-files and 1 R-file for annual analysis. 
