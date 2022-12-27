@@ -16,4 +16,4 @@ I use 2 tools to complete this project:
 2. **Microsoft Excel** to save outputs from R and create visualization.
 
 ## R Code
-Because the size of each dataset is large - 1 dataset contains data for 1 month and the size is more than 100 MB -, so I created one R-file for each dataset analysis. In the end, there are 12 R-files and 1 R-file for annual analysis. 
+Because the size of each dataset is large - each monthly dataset has size more than 100 MB -, so analyzed each dataset separately in each R-file. In the end, there are 12 R-files contain analysis for each month, and one R-file contains analysis for 1 year. 
