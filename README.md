@@ -22,3 +22,16 @@ Because the size of each dataset is quite large - more than 100 MB for each mont
 I use 2 libraries for this analysis:
 * `tidyverse` for general analysis
 * `lubridate` for date/time analysis.
+
+## Output
+#### Total Rides per Month
+![Total Rides per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/total_rides_per_month.png)
+
+#### Average Ride Time (in minutes) per Month
+![Average Ride Time (in minutes) per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/avg_ride_time_per_month.png)
+
+#### Membership per Month
+![Membership per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/membership_per_month.png)
+
+#### Bike Type per Month
+![Bike Type per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/bike_type_per_month.png)
