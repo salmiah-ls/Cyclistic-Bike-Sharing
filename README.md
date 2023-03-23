@@ -24,14 +24,23 @@ I use 2 libraries for this analysis:
 * `lubridate` for date/time analysis.
 
 ## Output
+### Tables
+![Total Rides per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/table_total_rides.png)
+![Average Ride Time (minutes) per month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/table_avg_ride_time.png)
+![Membership per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/table_membership.png)
+![Bike Type per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/table_bike_type.png)
+![Favorite Start Station per month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/table_favorite_start_station.png)
+![Favorite End Station per month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/table_favorite_end_station.png)
+
+### Charts
 #### Total Rides per Month
-![Total Rides per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/total_rides_per_month.png)
+![Total Rides per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/chart_total_rides.png)
 
 #### Average Ride Time (in minutes) per Month
-![Average Ride Time (in minutes) per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/avg_ride_time_per_month.png)
+![Average Ride Time (in minutes) per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/chart_avg_ride_time.png)
 
 #### Membership per Month
-![Membership per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/membership_per_month.png)
+![Membership per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/chart_membership.png)
 
 #### Bike Type per Month
-![Bike Type per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/bike_type_per_month.png)
+![Bike Type per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/chart_bike_type.png)
