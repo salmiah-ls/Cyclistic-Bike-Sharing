@@ -44,3 +44,4 @@ I use 2 libraries for this analysis:
 
 #### Bike Type per Month
 ![Bike Type per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/chart_bike_type.png)
+<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/chart_bike_type_stacked.png" width="650" alt="Bike Type per Month (stacked)">
