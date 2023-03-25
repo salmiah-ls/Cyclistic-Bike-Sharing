@@ -48,4 +48,4 @@ I use 2 libraries for this analysis:
 ![Bike Type per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/chart_bike_type.png)
 
 ### Dashboard in Power BI
-<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/report.png" width="800">
+<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/dashboard.png" width="800">
