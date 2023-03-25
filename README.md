@@ -13,7 +13,7 @@ For this project, I use 1-year Cyclistic riding data from November 2021 to Octob
 ## Tools
 I use 2 tools to complete this project:
 1. **R** to load, clean, transform, and analyze data.
-2. **Microsoft Excel** to save outputs from R and create simple reports and visualization.
+2. **Microsoft Excel** to save outputs from R and create simple reports and visualization.<br />
 I also use additional tool, **Microsoft Power BI**, to create dashboard and advanced visualization.
 
 ## R Code
