@@ -13,8 +13,8 @@ For this project, I use 1-year Cyclistic riding data from November 2021 to Octob
 ## Tools
 I use 2 tools to complete this project:
 1. **R** to load, clean, transform, and analyze data.
-2. **Microsoft Excel** to save outputs from R.
-3. **Microsoft Power BI** to create final report and visualization.
+2. **Microsoft Excel** to save outputs from R and create simple reports and visualization.
+I also use additional tool, **Microsoft Power BI**, to create dashboard and advanced visualization.
 
 ## R Code
 Because the size of each dataset is quite large - more than 100 MB for each monthly dataset, so I analyzed each dataset separately in each R-file. At the end, there are 12 R-files contain analysis for each month, and 1 R-file contains analysis for 1 year. But, for monthly analysis, I only upload 1 R-file because the code in all R-files are same except for dataset file name.
@@ -26,25 +26,26 @@ I use 2 libraries for this analysis:
 
 ## Output
 ### Tables
-![Total Rides per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/table_total_rides.png)
-![Average Ride Time (minutes) per month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/table_avg_ride_time.png)
-![Membership per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/table_membership.png)
-![Bike Type per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/table_bike_type.png)
-![Favorite Start Station per month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/table_favorite_start_station.png)
-![Favorite End Station per month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/table_favorite_end_station.png)
+![Total Rides per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_total_rides.png)
+![Average Ride Time (minutes) per month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_avg_ride_time.png)
+<br />
+![Membership per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_membership.png)
+![Bike Type per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_bike_type.png)
+![Favorite Start Station per month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_favorite_start_station.png)
+![Favorite End Station per month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_favorite_end_station.png)
 
 ### Charts
 #### Total Rides per Month
-![Total Rides per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/chart_total_rides.png)
+![Total Rides per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/chart_total_rides.png)
 
 #### Average Ride Time (in minutes) per Month
-![Average Ride Time (in minutes) per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/chart_avg_ride_time.png)
+![Average Ride Time (in minutes) per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/chart_avg_ride_time.png)
 
 #### Membership per Month
-![Membership per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/chart_membership.png)
+![Membership per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/chart_membership.png)
 
 #### Bike Type per Month
-![Bike Type per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/chart_bike_type.png)
+![Bike Type per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/chart_bike_type.png)
 
-### Final Report in Power BI format
+### Dashboard in Power BI
 <img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/report.png" width="800">
