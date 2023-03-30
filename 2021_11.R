@@ -35,7 +35,7 @@ ride_data %>% count(start_station_id, start_station_name, sort = TRUE)
 start_station_count <- ride_data %>% count(start_station_id, start_station_name)
 View(start_station_count)
 save(start_station_count, file = '2021_11_start_station_count.rda')
-load('2021_11_start_station_count.rda')
+#load('2021_11_start_station_count.rda')
 
 
 # count start_time
@@ -46,7 +46,7 @@ ride_data %>% count(start_hour = hour(ride_data$started_at), sort = TRUE)
 start_time_count <- ride_data %>% count(start_hour = hour(ride_data$started_at))
 View(start_time_count)
 save(start_time_count, file = '2021_11_start_time_count.rda')
-load('2021_11_start_time_count.rda')
+#load('2021_11_start_time_count.rda')
 
 
 # count end_station_id, sort ascending
@@ -57,7 +57,7 @@ ride_data %>% count(end_station_id, end_station_name, sort = TRUE)
 end_station_count <- ride_data %>% count(end_station_id, end_station_name)
 View(end_station_count)
 save(end_station_count, file = '2021_11_end_station_count.rda')
-load('2021_11_end_station_count.rda')
+#load('2021_11_end_station_count.rda')
 
 
 # count end_time
@@ -68,4 +68,4 @@ ride_data %>% count(end_hour = hour(ride_data$ended_at), sort = TRUE)
 end_time_count <- ride_data %>% count(end_hour = hour(ride_data$ended_at))
 View(end_time_count)
 save(end_time_count, file = '2021_11_end_time_count.rda')
-load('2021_11_end_time_count.rda')
+#load('2021_11_end_time_count.rda')
