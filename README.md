@@ -24,7 +24,7 @@ I use 2 libraries for this analysis:
 * `tidyverse` for general analysis
 * `lubridate` for date/time analysis.
 
-## Insight & Report
+## Insight & Report - All Users
 ### Tables
 ![Total Rides per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_total_rides.png)
 ![Average Ride Time (minutes) per month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_avg_ride_time.png)
