@@ -35,7 +35,7 @@ I use 2 libraries for this analysis:
 ![Favorite Start Station per month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_favorite_start_station.png)
 ![Favorite Start Time per month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_favorite_start_time.png)
 <br />
-![Favorite End Station per month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_favorite_end_station.png)
+![Favorite End Station per month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_favorite_end_station.pn)
 ![Favorite End Time per month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_favorite_end_time.png)
 
 ### Charts
