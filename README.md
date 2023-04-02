@@ -45,3 +45,6 @@ I use 2 libraries for this analysis:
 
 ### Report - Casual Users & Member Users
 <img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/casual_member.png" width="800">
+
+## Action - Marketing Strategy
+Based on analysis above, we can see that Casual Users reached maximum number at summer time, from June to August; they started and ended their rides at Streeter Dr and Grand Ave Station; and at 17 p.m.
