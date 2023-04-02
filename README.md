@@ -29,10 +29,16 @@ I use 2 libraries for this analysis:
 ![Total Rides per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_total_rides.png)
 ![Membership per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_membership.png)
 ![Average Ride Time](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_avg_ride_time2.png)
-<br />
+<br /><br />
 ![Classic Bike](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_classic_bike.png)
 ![Electric Bike](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_electric_bike.png)
 ![Docked Bike](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_docked_bike.png)
+<br /><br />
+![Favorite Start Station](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_fav_start_station2.png)
+![Favorite Start Time](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_fav_start_time2.png)
+<br /><br />
+![Favorite End Station](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_fav_end_station2.png)
+![Favorite End Time](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_fav_end_time2.png)
 
 ### Report - All Users
 <img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/dashboard2.png" width="800">
