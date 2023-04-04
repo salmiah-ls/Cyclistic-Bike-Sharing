@@ -17,7 +17,7 @@ I use 2 tools to complete this project:
 3. **Microsoft Power BI** to create visualization and report.
 
 ## R Code
-Because the size of each dataset is quite large - more than 100 MB for each monthly dataset, so I analyzed each dataset separately in each R-file. At the end, there are 12 R-files contain analysis for each month, and 1 R-file contains analysis for 1 year. But, for monthly analysis, I only upload 1 R-file because the code in all R-files are same except for dataset file name.
+Because the size of each dataset is quite large - more than 100 MB for each monthly dataset, so I analyzed each dataset separately in each R-file. At the end, there are 12 R-files contain analysis for each month. But, I only upload 1 R-file here because the code in files are same except for dataset file name.
 
 #### Libraries
 I use 2 libraries for this analysis:
