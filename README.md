@@ -34,17 +34,17 @@ I use 2 libraries for this analysis:
 ![Electric Bike](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_electric_bike.png)
 ![Docked Bike](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_docked_bike.png)
 <br /><br />
-![Favorite Start Station](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_fav_start_station2.png)
-![Favorite Start Time](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_fav_start_time2.png)
+![Casual Users Favorite Start Station & End Station](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_cu_start_end_station.png)
+![Casual Users Favorite Start Time & End Time](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_cu_start_end_time.png)
 <br /><br />
-![Favorite End Station](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_fav_end_station2.png)
-![Favorite End Time](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_fav_end_time2.png)
+![Member User Favorite Start & End Station](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_mu_start_end_station.png)
+![Member Users Favorite Start & End Time](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_mu_start_end_time.png)
 
 ### Report - All Users
 <img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/dashboard2.png" width="800">
 
 ### Report - Casual Users & Member Users
-<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/casual_member.png" width="800">
+<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/dashboard_casual_member.png" width="800">
 
 ## Action - Marketing Strategy
 - Based on analysis above, we can see that Casual Users reached maximum number at summer time, from June, July and August; they started and ended their rides at Streeter Dr and Grand Ave Station; and at 17 p.m.
