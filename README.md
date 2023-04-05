@@ -41,7 +41,7 @@ I use 2 libraries for this analysis:
 ![Member Users Favorite Start & End Time](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_mu_start_end_time.png)
 
 ### Report - All Users
-<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/dashboard2.png" width="800">
+<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/dashboard_all.png" width="800">
 
 ### Report - Casual Users & Member Users
 <img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/dashboard_casual_member.png" width="800">
