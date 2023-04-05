@@ -14,7 +14,7 @@ For this project, I use 1-year Cyclistic riding data from November 2021 to Octob
 I use 3 tools to complete this project:
 1. **R** to load, clean, transform, and analyze data.
 2. **Microsoft Excel** to save outputs from R and create tables.<br />
-3. **Microsoft Power BI** to create visualization and report. <br />Actually we should use **Tableau** for this project because that is the visualization tool taught in this course. But based on my experience, I prefer using Power BI. Also there is no much difference between Tableau and Power BI.
+3. **Microsoft Power BI** to create visualization and report. <br />Actually, we should use **Tableau** for this project because that is the visualization tool taught in this course. But based on my experience, I prefer using Power BI. Also, for visualization and report, there is no much difference between Tableau and Power BI.
 
 ## R Code
 Because the size of each dataset is quite large - more than 100 MB for each monthly dataset, so I analyzed each dataset separately in each R-file. At the end, there are 12 R-files contain analysis for each month. But, I only upload 1 R-file here because the code in files are same except for dataset file name.
