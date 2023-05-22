@@ -34,17 +34,16 @@ I use 2 libraries for this analysis:
 ![Electric Bike](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_electric_bike.png)
 ![Docked Bike](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_docked_bike.png)
 <br /><br />
-![Casual Users Favorite Start Station & End Station](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_cu_start_end_station.png)
-![Casual Users Favorite Start Time & End Time](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_cu_start_end_time.png)
-<br /><br />
-![Member User Favorite Start & End Station](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_mu_start_end_station.png)
-![Member Users Favorite Start & End Time](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_mu_start_end_time.png)
 
-### Report - All Users
-<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/dashboard_all.png" width="800">
-
-### Report - Casual Users & Member Users
-<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/dashboard_casual_member.png" width="800">
+### Charts
+<li>Total Rides and Average Ride Time (in minutes)</li>
+<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/total_users.png"></img>
+<li>Bike Type</li>
+<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/bike_type.png"></img>
+<li>Bike Type Percentage for 1 Year</li>
+<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/bike_type_percentage.png"></img>
+<li>Favorite Start/End Stations and Start/End Time</li>
+<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/start_end_stations.png"></img>
 
 ## Action - Marketing Strategy
 - Based on analysis above, we can see that Casual Users reached maximum number at summer time, from June, July and August; they started and ended their rides at Streeter Dr and Grand Ave Station; and at 17 p.m.
