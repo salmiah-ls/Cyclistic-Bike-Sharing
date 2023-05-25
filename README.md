@@ -37,7 +37,7 @@ I use 2 libraries for this analysis:
 
 ### Charts
 <li>Total Rides and Average Ride Time (in minutes)</li>
-<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/total_users.png"></img>
+<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/total_rides_avg_time.png"></img>
 <li>Bike Type</li>
 <img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/bike_type.png"></img>
 <li>Bike Type Percentage for 1 Year</li>
@@ -51,6 +51,6 @@ I use 2 libraries for this analysis:
 
 ## Further Analysis
 ### <li>20 Most Popular Start Station</li> 
-<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/top_20_start_station.png" width="800"><br />
+<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/start_stations_top20.png" width="800"><br />
 ### <li>Popular Start Time</li>
 <img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/start_time.png" width="800"></img>
