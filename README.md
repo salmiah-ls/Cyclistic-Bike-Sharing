@@ -47,9 +47,6 @@ I use 2 libraries for this analysis:
 <li>Favorite Start/End Stations and Start/End Time</li>
 <img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/start_end_stations.png"></img>
 
-### Insight
-<li></li>
-
 ## Action - Marketing Strategy
 - Based on analysis above, we can see that Casual Users reached maximum number at summer time, from June, July and August; they started and ended their rides at Streeter Dr and Grand Ave Station; and at 17 p.m.
 - Therefore Cyclistic Company should make event to promote the benefit of membership to these casual users on either June, July (best month), or August, in Streeter Dr and Grand Ave Station, at 17 p.m. to 18 p.m.
@@ -58,4 +55,4 @@ I use 2 libraries for this analysis:
 ### <li>20 Most Popular Start Station</li> 
 <img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/start_stations_top20.png" width="800"><br />
 ### <li>Popular Start Time</li>
-<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/start_time.png" width="800"></img>
+<img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/start_time_all.png" width="800"></img>
