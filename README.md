@@ -25,7 +25,7 @@ I use 2 libraries for this analysis:
 * `lubridate` for date/time analysis.
 
 ## Insight & Reports
-### Tables
+### Tables (Excel)
 ![Total Rides per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_total_rides.png)
 ![Membership per Month](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_membership.png)
 ![Average Ride Time](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_avg_ride_time2.png)
@@ -35,15 +35,20 @@ I use 2 libraries for this analysis:
 ![Docked Bike](https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/table_docked_bike.png)
 <br /><br />
 
-### Charts
+### Charts (Power BI)
 <li>Total Rides and Average Ride Time (in minutes)</li>
 <img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/total_rides_avg_time.png"></img>
 <li>Bike Type</li>
 <img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/bike_type.png"></img>
 <li>Bike Type Percentage for 1 Year</li>
 <img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/bike_type_percentage.png"></img>
+
+### Tables (Power BI)
 <li>Favorite Start/End Stations and Start/End Time</li>
 <img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/start_end_stations.png"></img>
+
+### Insight
+<li></li>
 
 ## Action - Marketing Strategy
 - Based on analysis above, we can see that Casual Users reached maximum number at summer time, from June, July and August; they started and ended their rides at Streeter Dr and Grand Ave Station; and at 17 p.m.
