@@ -58,8 +58,8 @@ I use 2 libraries for this analysis:
 - Both casual-users and member-users has similar favorite for start and end hour i.e. at 17 p.m. Since their average ride-time was less than 1 hour, so most of the users rode their bike starting at 17.00 p.m and finished before 18.00 p.m.
 
 ## Action - Marketing Strategy
-- Based on analysis above, we can see that Casual Users reached maximum number at summer time, from June, July and August; they started and ended their rides at Streeter Dr and Grand Ave Station; between 17.00 p.m to 18.00 p.m.
-- Therefore Cyclistic Company should make event to promote the benefit of membership to these casual users on either June, July (best month), or August, in Streeter Dr and Grand Ave Station, at 17.00 p.m. to 18.00 p.m.
+- Based on analysis above, we can see that casual-users reached maximum number at summer time, from June, July and August; they started and ended their rides at Streeter Dr and Grand Ave Station; between 17.00 p.m to 18.00 p.m.
+- Therefore Cyclistic Company should make event to promote the benefit of membership to these casual-users on either June, July (best month), or August, in Streeter Dr and Grand Ave Station, at 17.00 p.m. to 18.00 p.m.
 
 ## Further Analysis
 ### <li>20 Most Popular Start Station</li> 
