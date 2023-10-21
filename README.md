@@ -66,5 +66,3 @@ I use 2 libraries for this analysis:
 <img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/start_stations_top20.png" width="800"><br />
 ### <li>Popular Start Time</li>
 <img src="https://github.com/salmiah-ls/Cyclistic-Bike-Sharing/blob/main/images/start_time_all.png" width="800"></img><br />
-
-**N.B. I'm a freelance Data Analyst from Indoneia. I offer service in Data Analysis or Data Engineering with very affordable price. Feel free to contact me at sitti.salmiah[at]gmail.com.**
